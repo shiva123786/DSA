@@ -7,6 +7,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +33,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 ## Monotonic Stack
 |  |
@@ -45,4 +47,12 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
