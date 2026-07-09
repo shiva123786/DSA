@@ -41,4 +41,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+## Math
+|  |
+| ------- |
+| [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
 <!---LeetCode Topics End-->
