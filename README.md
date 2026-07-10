@@ -16,16 +16,19 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +38,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,4 +59,17 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
