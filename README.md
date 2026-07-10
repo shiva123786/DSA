@@ -55,6 +55,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
 ## String
 |  |
@@ -90,4 +91,12 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
