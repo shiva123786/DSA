@@ -33,6 +33,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 ## Sorting
 |  |
@@ -77,4 +78,12 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shiva123786/DSA/tree/master/0203-remove-linked-list-elements) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
