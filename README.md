@@ -138,4 +138,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
+## Database
+|  |
+| ------- |
+| [3586-find-covid-recovery-patients](https://github.com/shiva123786/DSA/tree/master/3586-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
