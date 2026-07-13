@@ -78,6 +78,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
@@ -127,6 +128,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shiva123786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
