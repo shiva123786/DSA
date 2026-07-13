@@ -56,6 +56,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
@@ -85,6 +86,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -105,6 +107,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 ## Ordered Set
 |  |
