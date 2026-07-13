@@ -25,6 +25,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shiva123786/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/shiva123786/DSA/tree/master/0328-odd-even-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/shiva123786/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
