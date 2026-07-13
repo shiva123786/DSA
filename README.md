@@ -80,6 +80,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -121,6 +122,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shiva123786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
@@ -159,6 +161,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shiva123786/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
