@@ -46,6 +46,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
@@ -139,6 +140,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
