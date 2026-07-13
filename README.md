@@ -230,4 +230,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shiva123786/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
