@@ -217,6 +217,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/shiva123786/DSA/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +229,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/shiva123786/DSA/tree/master/0450-delete-node-in-a-bst) |
 ## Trie
 |  |
 | ------- |
@@ -306,4 +308,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/shiva123786/DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
