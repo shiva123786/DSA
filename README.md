@@ -77,6 +77,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +137,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
