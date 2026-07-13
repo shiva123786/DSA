@@ -157,6 +157,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/shiva123786/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -290,4 +291,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shiva123786/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
