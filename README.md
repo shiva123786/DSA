@@ -34,6 +34,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
@@ -150,6 +152,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
