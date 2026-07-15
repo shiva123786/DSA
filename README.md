@@ -7,6 +7,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiva123786/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0001-two-sum](https://github.com/shiva123786/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shiva123786/DSA/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
@@ -236,6 +238,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -345,4 +348,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
