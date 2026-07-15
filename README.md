@@ -63,6 +63,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0046-permutations](https://github.com/shiva123786/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -250,6 +251,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shiva123786/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shiva123786/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
