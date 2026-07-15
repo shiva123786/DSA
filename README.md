@@ -6,6 +6,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shiva123786/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shiva123786/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
