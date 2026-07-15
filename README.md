@@ -41,6 +41,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0015-3sum](https://github.com/shiva123786/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shiva123786/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shiva123786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/shiva123786/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -132,6 +134,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0015-3sum](https://github.com/shiva123786/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shiva123786/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
