@@ -68,6 +68,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shiva123786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -117,6 +118,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shiva123786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
@@ -149,6 +151,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shiva123786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
