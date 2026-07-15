@@ -82,6 +82,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
@@ -159,6 +160,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
+| [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
