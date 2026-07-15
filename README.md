@@ -114,6 +114,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
+| [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva123786/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -158,6 +159,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
+| [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
@@ -324,6 +326,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 ## Quickselect
 |  |
 | ------- |
