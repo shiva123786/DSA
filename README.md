@@ -77,6 +77,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva123786/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shiva123786/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shiva123786/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shiva123786/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -231,6 +232,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shiva123786/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shiva123786/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
