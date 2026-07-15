@@ -67,6 +67,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +189,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
@@ -257,6 +259,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0039-combination-sum](https://github.com/shiva123786/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shiva123786/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
