@@ -83,6 +83,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva123786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/shiva123786/DSA/tree/master/0260-single-number-iii) |
@@ -222,6 +223,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva123786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shiva123786/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
@@ -365,10 +367,12 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/shiva123786/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Memoization
