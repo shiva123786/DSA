@@ -61,6 +61,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0039-combination-sum](https://github.com/shiva123786/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shiva123786/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
@@ -361,4 +363,5 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
