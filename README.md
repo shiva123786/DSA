@@ -21,6 +21,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
@@ -113,6 +114,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shiva123786/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -171,6 +173,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
