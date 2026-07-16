@@ -57,6 +57,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
@@ -169,6 +171,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,6 +200,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shiva123786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -277,12 +281,14 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shiva123786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
