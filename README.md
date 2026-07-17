@@ -14,6 +14,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
@@ -221,6 +222,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shiva123786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
@@ -288,6 +290,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -354,6 +357,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
