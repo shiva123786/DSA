@@ -232,6 +232,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/shiva123786/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
