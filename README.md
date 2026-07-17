@@ -206,6 +206,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0189-rotate-array](https://github.com/shiva123786/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -229,6 +230,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -299,6 +301,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
