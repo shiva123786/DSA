@@ -143,6 +143,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -211,6 +212,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
+| [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
