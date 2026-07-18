@@ -26,6 +26,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
@@ -129,6 +130,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
@@ -221,6 +223,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shiva123786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shiva123786/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
