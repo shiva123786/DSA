@@ -11,6 +11,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shiva123786/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
@@ -89,6 +90,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0135-candy](https://github.com/shiva123786/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva123786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shiva123786/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -171,6 +173,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shiva123786/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
@@ -384,6 +387,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -447,6 +451,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 ## Quickselect
