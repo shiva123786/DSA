@@ -211,6 +211,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shiva123786/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
@@ -232,6 +233,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
@@ -254,6 +256,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/shiva123786/DSA/tree/master/0260-single-number-iii) |
@@ -315,6 +318,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
