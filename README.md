@@ -14,6 +14,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiva123786/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -181,6 +182,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shiva123786/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
@@ -244,6 +246,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/shiva123786/DSA/tree/master/0344-reverse-string) |
