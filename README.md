@@ -113,6 +113,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+| [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva123786/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -329,6 +330,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -478,6 +480,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 ## Combinatorics
 |  |
 | ------- |
