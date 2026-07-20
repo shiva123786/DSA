@@ -240,6 +240,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/shiva123786/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
