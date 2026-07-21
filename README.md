@@ -24,6 +24,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1331-rank-transform-of-an-array](https://github.com/shiva123786/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -127,6 +128,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shiva123786/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva123786/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -297,6 +299,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shiva123786/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
+| [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -332,6 +335,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
+| [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 ## Queue
 |  |
 | ------- |
@@ -516,4 +520,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 <!---LeetCode Topics End-->
