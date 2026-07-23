@@ -232,6 +232,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shiva123786/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
@@ -288,6 +289,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shiva123786/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
