@@ -107,6 +107,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
+| [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/shiva123786/DSA/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
@@ -162,6 +163,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva123786/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
@@ -496,6 +498,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
