@@ -60,6 +60,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shiva123786/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shiva123786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/shiva123786/DSA/tree/master/0443-string-compression) |
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -291,6 +292,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiva123786/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/shiva123786/DSA/tree/master/0443-string-compression) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
