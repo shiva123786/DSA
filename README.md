@@ -182,6 +182,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shiva123786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/shiva123786/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
@@ -224,6 +225,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shiva123786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/shiva123786/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
@@ -284,6 +286,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/shiva123786/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
@@ -345,6 +348,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shiva123786/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shiva123786/DSA/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/shiva123786/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
