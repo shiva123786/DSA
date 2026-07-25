@@ -239,6 +239,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shiva123786/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/shiva123786/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
@@ -270,6 +271,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/shiva123786/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/shiva123786/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
@@ -375,6 +377,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shiva123786/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shiva123786/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
