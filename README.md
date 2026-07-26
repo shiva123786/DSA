@@ -113,6 +113,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0506-relative-ranks](https://github.com/shiva123786/DSA/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/shiva123786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
@@ -205,6 +206,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/shiva123786/DSA/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
@@ -254,6 +256,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0342-power-of-four](https://github.com/shiva123786/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/shiva123786/DSA/tree/master/0812-largest-triangle-area) |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
