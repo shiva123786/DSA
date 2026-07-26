@@ -167,6 +167,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva123786/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/shiva123786/DSA/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
@@ -254,6 +255,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/shiva123786/DSA/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/shiva123786/DSA/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/shiva123786/DSA/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
