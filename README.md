@@ -262,6 +262,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/shiva123786/DSA/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva123786/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shiva123786/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -301,6 +302,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1154-day-of-the-year](https://github.com/shiva123786/DSA/tree/master/1154-day-of-the-year) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
