@@ -131,6 +131,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva123786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shiva123786/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1629-slowest-key](https://github.com/shiva123786/DSA/tree/master/1629-slowest-key) |
 | [1732-find-the-highest-altitude](https://github.com/shiva123786/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
@@ -311,6 +312,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1154-day-of-the-year](https://github.com/shiva123786/DSA/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shiva123786/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/shiva123786/DSA/tree/master/1328-break-a-palindrome) |
+| [1629-slowest-key](https://github.com/shiva123786/DSA/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
