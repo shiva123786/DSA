@@ -99,6 +99,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva123786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shiva123786/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -210,6 +211,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shiva123786/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shiva123786/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
@@ -300,6 +302,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/shiva123786/DSA/tree/master/0273-integer-to-english-words) |
@@ -382,6 +385,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0011-container-with-most-water](https://github.com/shiva123786/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shiva123786/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shiva123786/DSA/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/shiva123786/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
