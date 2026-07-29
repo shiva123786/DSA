@@ -87,6 +87,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shiva123786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shiva123786/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shiva123786/DSA/tree/master/0118-pascals-triangle) |
@@ -298,6 +299,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/shiva123786/DSA/tree/master/0273-integer-to-english-words) |
@@ -447,6 +449,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0046-permutations](https://github.com/shiva123786/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -461,6 +464,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -597,6 +601,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/shiva123786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/shiva123786/DSA/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
