@@ -31,6 +31,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
@@ -280,6 +281,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva123786/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shiva123786/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shiva123786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -325,6 +327,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3499-maximize-active-section-with-trade-i](https://github.com/shiva123786/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shiva123786/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva123786/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
@@ -501,6 +504,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -597,6 +601,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Segment Tree
 |  |
 | ------- |
