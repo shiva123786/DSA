@@ -67,6 +67,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -148,6 +149,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shiva123786/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -434,6 +436,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0566-reshape-the-matrix](https://github.com/shiva123786/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shiva123786/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
