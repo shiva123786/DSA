@@ -73,6 +73,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -168,6 +169,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3639-minimum-time-to-activate-string](https://github.com/shiva123786/DSA/tree/master/3639-minimum-time-to-activate-string) |
+| [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -618,6 +620,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0766-toeplitz-matrix](https://github.com/shiva123786/DSA/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
 | ------- |
