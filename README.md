@@ -132,6 +132,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
 | [0812-largest-triangle-area](https://github.com/shiva123786/DSA/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
@@ -193,6 +194,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -287,6 +289,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/shiva123786/DSA/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1017-convert-to-base-2](https://github.com/shiva123786/DSA/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -648,13 +651,16 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
