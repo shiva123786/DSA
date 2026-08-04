@@ -119,6 +119,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/shiva123786/DSA/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/shiva123786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
@@ -191,6 +192,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/shiva123786/DSA/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
@@ -286,6 +288,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0343-integer-break](https://github.com/shiva123786/DSA/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/shiva123786/DSA/tree/master/0812-largest-triangle-area) |
@@ -427,6 +430,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0273-integer-to-english-words](https://github.com/shiva123786/DSA/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/shiva123786/DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
 | ------- |
@@ -651,16 +655,19 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
