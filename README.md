@@ -32,6 +32,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/shiva123786/DSA/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
@@ -170,6 +171,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3639-minimum-time-to-activate-string](https://github.com/shiva123786/DSA/tree/master/3639-minimum-time-to-activate-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3731-find-missing-elements](https://github.com/shiva123786/DSA/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -244,6 +246,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva123786/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shiva123786/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shiva123786/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
