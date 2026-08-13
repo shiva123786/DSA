@@ -551,6 +551,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0511-game-play-analysis-i](https://github.com/shiva123786/DSA/tree/master/0511-game-play-analysis-i) |
 | [1158-market-analysis-i](https://github.com/shiva123786/DSA/tree/master/1158-market-analysis-i) |
 | [1393-capital-gainloss](https://github.com/shiva123786/DSA/tree/master/1393-capital-gainloss) |
+| [1587-bank-account-summary-ii](https://github.com/shiva123786/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1873-calculate-special-bonus](https://github.com/shiva123786/DSA/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/shiva123786/DSA/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/shiva123786/DSA/tree/master/1965-employees-with-missing-information) |
