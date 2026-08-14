@@ -727,4 +727,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
