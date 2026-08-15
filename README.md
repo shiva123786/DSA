@@ -185,6 +185,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3639-minimum-time-to-activate-string](https://github.com/shiva123786/DSA/tree/master/3639-minimum-time-to-activate-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shiva123786/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/shiva123786/DSA/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
@@ -401,6 +402,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva123786/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shiva123786/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
