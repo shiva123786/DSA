@@ -120,6 +120,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0260-single-number-iii](https://github.com/shiva123786/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/shiva123786/DSA/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
@@ -469,6 +470,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 ## Queue
@@ -636,6 +638,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/shiva123786/DSA/tree/master/1732-find-the-highest-altitude) |
