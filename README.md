@@ -129,6 +129,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0384-shuffle-an-array](https://github.com/shiva123786/DSA/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
@@ -313,6 +314,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0273-integer-to-english-words](https://github.com/shiva123786/DSA/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/shiva123786/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/shiva123786/DSA/tree/master/0343-integer-break) |
+| [0384-shuffle-an-array](https://github.com/shiva123786/DSA/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/shiva123786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
@@ -481,6 +483,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0384-shuffle-an-array](https://github.com/shiva123786/DSA/tree/master/0384-shuffle-an-array) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 ## Queue
@@ -754,4 +757,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/shiva123786/DSA/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
