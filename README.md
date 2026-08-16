@@ -18,6 +18,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
@@ -69,6 +70,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0344-reverse-string](https://github.com/shiva123786/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shiva123786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/shiva123786/DSA/tree/master/0443-string-compression) |
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -126,6 +128,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0322-coin-change](https://github.com/shiva123786/DSA/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
@@ -252,6 +255,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shiva123786/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/shiva123786/DSA/tree/master/0506-relative-ranks) |
@@ -417,6 +421,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/shiva123786/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
