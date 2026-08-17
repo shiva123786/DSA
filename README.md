@@ -159,6 +159,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shiva123786/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva123786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shiva123786/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1629-slowest-key](https://github.com/shiva123786/DSA/tree/master/1629-slowest-key) |
 | [1732-find-the-highest-altitude](https://github.com/shiva123786/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -224,6 +225,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shiva123786/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -329,6 +331,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1154-day-of-the-year](https://github.com/shiva123786/DSA/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shiva123786/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva123786/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
@@ -734,6 +737,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
