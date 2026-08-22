@@ -351,6 +351,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shiva123786/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shiva123786/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shiva123786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shiva123786/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shiva123786/DSA/tree/master/3783-mirror-distance-of-an-integer) |
