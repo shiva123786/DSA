@@ -338,6 +338,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shiva123786/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1927-sum-game](https://github.com/shiva123786/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva123786/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -395,6 +396,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/shiva123786/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/shiva123786/DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/shiva123786/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/shiva123786/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shiva123786/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -469,6 +471,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1221-split-a-string-in-balanced-strings](https://github.com/shiva123786/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/shiva123786/DSA/tree/master/1328-break-a-palindrome) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/shiva123786/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1927-sum-game](https://github.com/shiva123786/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shiva123786/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva123786/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -755,6 +758,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shiva123786/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
