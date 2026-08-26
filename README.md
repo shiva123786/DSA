@@ -406,6 +406,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shiva123786/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shiva123786/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva123786/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva123786/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shiva123786/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -672,6 +673,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shiva123786/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shiva123786/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva123786/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
