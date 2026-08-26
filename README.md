@@ -252,6 +252,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/shiva123786/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -403,6 +404,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1773-count-items-matching-a-rule](https://github.com/shiva123786/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/shiva123786/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shiva123786/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/shiva123786/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/shiva123786/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shiva123786/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -526,6 +528,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shiva123786/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/shiva123786/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiva123786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
