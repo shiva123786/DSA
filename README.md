@@ -210,6 +210,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
+| [4020-elevator-requests-i](https://github.com/shiva123786/DSA/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -539,6 +540,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/shiva123786/DSA/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
 | ------- |
