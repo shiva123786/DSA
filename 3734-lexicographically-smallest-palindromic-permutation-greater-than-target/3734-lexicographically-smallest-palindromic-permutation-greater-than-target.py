@@ -2,13 +2,11 @@ class Solution:
     def lexPalindromicPermutation(self,s,target):
         n=len(s)
         count=[0]*26
-
         for c in s:
             count[ord(c)-97]+=1
 
         odd=0
         mid=-1
-
         for i in range(26):
             if count[i]%2:
                 odd+=1
@@ -22,23 +20,23 @@ class Solution:
         half=n//2
         left=[x//2 for x in count]
 
-        copy=left[:]
-        matched=0
-        fullMatch=True
-
-        for i in range(half):
-            c=ord(target[i])-97
-            if copy[c]==0:
-                fullMatch=False
-                break
-            copy[c]-=1
-            matched+=1
-
         def build(firstHalf):
             rev=firstHalf[::-1]
             if n%2:
                 return firstHalf+chr(mid+97)+rev
             return firstHalf+rev
+
+        copyArr=left[:]
+        matched=0
+        fullMatch=True
+
+        for i in range(half):
+            c=ord(target[i])-97
+            if copyArr[c]==0:
+                fullMatch=False
+                break
+            copyArr[c]-=1
+            matched+=1
 
         if fullMatch:
             firstHalf=target[:half]
@@ -60,12 +58,11 @@ class Solution:
             for c in range(tChar+1,26):
                 if use[c]>0:
                     use[c]-=1
-
                     firstHalf=target[:pos]+chr(c+97)
                     rest=[]
 
                     for x in range(26):
-                        rest.extend([chr(x+97)]*use[x])
+                        rest.append(chr(x+97)*use[x])
 
                     return build(firstHalf+"".join(rest))
 
