@@ -189,6 +189,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shiva123786/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shiva123786/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shiva123786/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiva123786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -290,6 +291,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shiva123786/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shiva123786/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva123786/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -649,6 +651,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0128-longest-consecutive-sequence](https://github.com/shiva123786/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/shiva123786/DSA/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shiva123786/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Rolling Hash
 |  |
 | ------- |
