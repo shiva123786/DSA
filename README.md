@@ -39,6 +39,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shiva123786/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shiva123786/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shiva123786/DSA/tree/master/3731-find-missing-elements) |
@@ -207,6 +208,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva123786/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3639-minimum-time-to-activate-string](https://github.com/shiva123786/DSA/tree/master/3639-minimum-time-to-activate-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shiva123786/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -448,6 +450,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva123786/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shiva123786/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -650,6 +653,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shiva123786/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -748,6 +752,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
