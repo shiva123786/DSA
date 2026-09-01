@@ -528,12 +528,14 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/shiva123786/DSA/tree/master/0384-shuffle-an-array) |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shiva123786/DSA/tree/master/0933-number-of-recent-calls) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/shiva123786/DSA/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -743,6 +745,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shiva123786/DSA/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
