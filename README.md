@@ -130,6 +130,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0217-contains-duplicate](https://github.com/shiva123786/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/shiva123786/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/shiva123786/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/shiva123786/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva123786/DSA/tree/master/0283-move-zeroes) |
@@ -713,6 +714,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/shiva123786/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
