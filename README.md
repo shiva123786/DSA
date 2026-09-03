@@ -223,6 +223,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3838-weighted-word-mapping](https://github.com/shiva123786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva123786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shiva123786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 | [4020-elevator-requests-i](https://github.com/shiva123786/DSA/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
@@ -385,6 +386,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3783-mirror-distance-of-an-integer](https://github.com/shiva123786/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva123786/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva123786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shiva123786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
