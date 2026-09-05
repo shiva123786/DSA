@@ -228,6 +228,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva123786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shiva123786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shiva123786/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shiva123786/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/shiva123786/DSA/tree/master/3934-smallest-unique-subarray) |
 | [4020-elevator-requests-i](https://github.com/shiva123786/DSA/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
@@ -736,6 +737,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1872-stone-game-viii](https://github.com/shiva123786/DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/shiva123786/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shiva123786/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Memoization
 |  |
 | ------- |
