@@ -31,6 +31,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shiva123786/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -196,6 +197,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shiva123786/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
@@ -569,6 +571,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shiva123786/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva123786/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -781,6 +784,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0766-toeplitz-matrix](https://github.com/shiva123786/DSA/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shiva123786/DSA/tree/master/3643-flip-square-submatrix-vertically) |
