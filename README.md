@@ -177,6 +177,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shiva123786/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva123786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiva123786/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shiva123786/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1629-slowest-key](https://github.com/shiva123786/DSA/tree/master/1629-slowest-key) |
@@ -258,6 +259,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiva123786/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shiva123786/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shiva123786/DSA/tree/master/1872-stone-game-viii) |
@@ -729,6 +731,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shiva123786/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiva123786/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shiva123786/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shiva123786/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva123786/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
