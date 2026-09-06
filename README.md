@@ -238,6 +238,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/shiva123786/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shiva123786/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shiva123786/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva123786/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -404,6 +405,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/shiva123786/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/shiva123786/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
