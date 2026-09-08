@@ -664,6 +664,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1158-market-analysis-i](https://github.com/shiva123786/DSA/tree/master/1158-market-analysis-i) |
 | [1393-capital-gainloss](https://github.com/shiva123786/DSA/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/shiva123786/DSA/tree/master/1587-bank-account-summary-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/shiva123786/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/shiva123786/DSA/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/shiva123786/DSA/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/shiva123786/DSA/tree/master/1965-employees-with-missing-information) |
