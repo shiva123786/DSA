@@ -22,6 +22,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiva123786/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shiva123786/DSA/tree/master/0409-longest-palindrome) |
+| [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/shiva123786/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -159,6 +160,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0717-1-bit-and-2-bit-characters](https://github.com/shiva123786/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shiva123786/DSA/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/shiva123786/DSA/tree/master/0766-toeplitz-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
@@ -252,6 +254,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/shiva123786/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
+| [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
