@@ -437,6 +437,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiva123786/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/shiva123786/DSA/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/shiva123786/DSA/tree/master/0649-dota2-senate) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
@@ -532,6 +533,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0435-non-overlapping-intervals](https://github.com/shiva123786/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shiva123786/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/shiva123786/DSA/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shiva123786/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/shiva123786/DSA/tree/master/1328-break-a-palindrome) |
@@ -576,6 +578,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiva123786/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/shiva123786/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/shiva123786/DSA/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
