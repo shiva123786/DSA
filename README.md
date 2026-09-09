@@ -673,6 +673,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shiva123786/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/shiva123786/DSA/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/shiva123786/DSA/tree/master/1587-bank-account-summary-ii) |
+| [1661-average-time-of-process-per-machine](https://github.com/shiva123786/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/shiva123786/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shiva123786/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/shiva123786/DSA/tree/master/1873-calculate-special-bonus) |
