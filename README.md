@@ -635,6 +635,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shiva123786/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -645,6 +646,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0501-find-mode-in-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shiva123786/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shiva123786/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -657,6 +659,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shiva123786/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
 ## Trie
 |  |
 | ------- |
