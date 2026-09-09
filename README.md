@@ -672,6 +672,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1158-market-analysis-i](https://github.com/shiva123786/DSA/tree/master/1158-market-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shiva123786/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/shiva123786/DSA/tree/master/1393-capital-gainloss) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shiva123786/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/shiva123786/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1661-average-time-of-process-per-machine](https://github.com/shiva123786/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/shiva123786/DSA/tree/master/1683-invalid-tweets) |
