@@ -664,6 +664,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/shiva123786/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/shiva123786/DSA/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/shiva123786/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/shiva123786/DSA/tree/master/0595-big-countries) |
