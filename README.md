@@ -669,6 +669,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0595-big-countries](https://github.com/shiva123786/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/shiva123786/DSA/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/shiva123786/DSA/tree/master/1158-market-analysis-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shiva123786/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/shiva123786/DSA/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/shiva123786/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/shiva123786/DSA/tree/master/1683-invalid-tweets) |
