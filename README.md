@@ -267,6 +267,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiva123786/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/shiva123786/DSA/tree/master/1510-stone-game-iv) |
@@ -640,6 +641,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0700-search-in-a-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shiva123786/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shiva123786/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -654,6 +656,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shiva123786/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shiva123786/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shiva123786/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -670,6 +673,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0700-search-in-a-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shiva123786/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shiva123786/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
@@ -929,4 +933,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shiva123786/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
