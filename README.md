@@ -633,6 +633,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/shiva123786/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shiva123786/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -649,6 +650,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/shiva123786/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/shiva123786/DSA/tree/master/0437-path-sum-iii) |
@@ -665,6 +667,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/shiva123786/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shiva123786/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -937,4 +940,12 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
