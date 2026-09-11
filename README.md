@@ -40,6 +40,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shiva123786/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva123786/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiva123786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -218,6 +219,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shiva123786/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shiva123786/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiva123786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shiva123786/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -564,6 +566,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0342-power-of-four](https://github.com/shiva123786/DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shiva123786/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiva123786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -765,6 +768,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [1291-sequential-digits](https://github.com/shiva123786/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shiva123786/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiva123786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shiva123786/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shiva123786/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shiva123786/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
