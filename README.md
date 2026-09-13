@@ -736,6 +736,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1890-the-latest-login-in-2020](https://github.com/shiva123786/DSA/tree/master/1890-the-latest-login-in-2020) |
 | [1934-confirmation-rate](https://github.com/shiva123786/DSA/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/shiva123786/DSA/tree/master/1965-employees-with-missing-information) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shiva123786/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/shiva123786/DSA/tree/master/3220-odd-and-even-transactions) |
 | [3586-find-covid-recovery-patients](https://github.com/shiva123786/DSA/tree/master/3586-find-covid-recovery-patients) |
 ## Counting
