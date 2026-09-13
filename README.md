@@ -561,6 +561,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/shiva123786/DSA/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/shiva123786/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shiva123786/DSA/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shiva123786/DSA/tree/master/3310-remove-methods-from-project) |
@@ -667,6 +668,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0437-path-sum-iii](https://github.com/shiva123786/DSA/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shiva123786/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shiva123786/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shiva123786/DSA/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/shiva123786/DSA/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/shiva123786/DSA/tree/master/0872-leaf-similar-trees) |
@@ -764,6 +766,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0322-coin-change](https://github.com/shiva123786/DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/shiva123786/DSA/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shiva123786/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shiva123786/DSA/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/shiva123786/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -776,6 +779,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shiva123786/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/shiva123786/DSA/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/shiva123786/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shiva123786/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Rolling Hash
