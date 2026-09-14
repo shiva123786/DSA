@@ -738,6 +738,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shiva123786/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/shiva123786/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/shiva123786/DSA/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/shiva123786/DSA/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shiva123786/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/shiva123786/DSA/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/shiva123786/DSA/tree/master/1890-the-latest-login-in-2020) |
