@@ -94,6 +94,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/shiva123786/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shiva123786/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shiva123786/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -210,6 +211,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiva123786/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/shiva123786/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
@@ -613,6 +615,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2161-partition-array-according-to-given-pivot](https://github.com/shiva123786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva123786/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/shiva123786/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiva123786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -807,6 +810,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0506-relative-ranks](https://github.com/shiva123786/DSA/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva123786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/shiva123786/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
