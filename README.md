@@ -175,6 +175,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0931-minimum-falling-path-sum](https://github.com/shiva123786/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+| [0994-rotting-oranges](https://github.com/shiva123786/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shiva123786/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/shiva123786/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -776,6 +777,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0547-number-of-provinces](https://github.com/shiva123786/DSA/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/shiva123786/DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/shiva123786/DSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shiva123786/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shiva123786/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -889,6 +891,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0766-toeplitz-matrix](https://github.com/shiva123786/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/shiva123786/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/shiva123786/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/shiva123786/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shiva123786/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
