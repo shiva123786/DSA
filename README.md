@@ -197,6 +197,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shiva123786/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/shiva123786/DSA/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/shiva123786/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva123786/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shiva123786/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -777,6 +778,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0841-keys-and-rooms](https://github.com/shiva123786/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shiva123786/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/shiva123786/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/shiva123786/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shiva123786/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -889,6 +891,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0931-minimum-falling-path-sum](https://github.com/shiva123786/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/shiva123786/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/shiva123786/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiva123786/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shiva123786/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
