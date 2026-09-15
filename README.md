@@ -255,6 +255,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/shiva123786/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shiva123786/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shiva123786/DSA/tree/master/0118-pascals-triangle) |
@@ -377,6 +378,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0029-divide-two-integers](https://github.com/shiva123786/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shiva123786/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/shiva123786/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shiva123786/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shiva123786/DSA/tree/master/0189-rotate-array) |
@@ -916,6 +918,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shiva123786/DSA/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shiva123786/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shiva123786/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shiva123786/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
