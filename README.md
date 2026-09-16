@@ -172,6 +172,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0809-expressive-words](https://github.com/shiva123786/DSA/tree/master/0809-expressive-words) |
 | [0812-largest-triangle-area](https://github.com/shiva123786/DSA/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/shiva123786/DSA/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/shiva123786/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
@@ -529,6 +530,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva123786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/shiva123786/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/shiva123786/DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/shiva123786/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/shiva123786/DSA/tree/master/1268-search-suggestions-system) |
