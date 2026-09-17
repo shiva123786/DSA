@@ -12,6 +12,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0128-longest-consecutive-sequence](https://github.com/shiva123786/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shiva123786/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/shiva123786/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shiva123786/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
@@ -449,6 +450,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0115-distinct-subsequences](https://github.com/shiva123786/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/shiva123786/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/shiva123786/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shiva123786/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/shiva123786/DSA/tree/master/0273-integer-to-english-words) |
@@ -606,6 +608,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shiva123786/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/shiva123786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/shiva123786/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/shiva123786/DSA/tree/master/0384-shuffle-an-array) |
@@ -726,6 +729,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shiva123786/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/shiva123786/DSA/tree/master/0336-palindrome-pairs) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/shiva123786/DSA/tree/master/1268-search-suggestions-system) |
