@@ -139,6 +139,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiva123786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shiva123786/DSA/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/shiva123786/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/shiva123786/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/shiva123786/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shiva123786/DSA/tree/master/0238-product-of-array-except-self) |
@@ -267,6 +268,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0120-triangle](https://github.com/shiva123786/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva123786/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/shiva123786/DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/shiva123786/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/shiva123786/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/shiva123786/DSA/tree/master/0343-integer-break) |
@@ -925,6 +927,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/shiva123786/DSA/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/shiva123786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/shiva123786/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/shiva123786/DSA/tree/master/0835-image-overlap) |
