@@ -741,6 +741,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/shiva123786/DSA/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/shiva123786/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/shiva123786/DSA/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/shiva123786/DSA/tree/master/0550-game-play-analysis-iv) |
