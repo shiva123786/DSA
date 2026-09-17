@@ -275,6 +275,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0413-arithmetic-slices](https://github.com/shiva123786/DSA/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/shiva123786/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/shiva123786/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
@@ -469,6 +470,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0415-add-strings](https://github.com/shiva123786/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiva123786/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/shiva123786/DSA/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/shiva123786/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/shiva123786/DSA/tree/master/0649-dota2-senate) |
 | [0761-special-binary-string](https://github.com/shiva123786/DSA/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
