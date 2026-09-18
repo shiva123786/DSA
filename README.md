@@ -31,6 +31,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1331-rank-transform-of-an-array](https://github.com/shiva123786/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shiva123786/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shiva123786/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shiva123786/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shiva123786/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/shiva123786/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -352,6 +353,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiva123786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva123786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shiva123786/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shiva123786/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shiva123786/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shiva123786/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -488,6 +490,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1268-search-suggestions-system](https://github.com/shiva123786/DSA/tree/master/1268-search-suggestions-system) |
 | [1328-break-a-palindrome](https://github.com/shiva123786/DSA/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shiva123786/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shiva123786/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1629-slowest-key](https://github.com/shiva123786/DSA/tree/master/1629-slowest-key) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shiva123786/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/shiva123786/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -585,6 +588,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shiva123786/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/shiva123786/DSA/tree/master/1328-break-a-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shiva123786/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/shiva123786/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1927-sum-game](https://github.com/shiva123786/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
