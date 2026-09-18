@@ -132,6 +132,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0134-gas-station](https://github.com/shiva123786/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shiva123786/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shiva123786/DSA/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/shiva123786/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva123786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shiva123786/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shiva123786/DSA/tree/master/0179-largest-number) |
@@ -534,6 +535,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/shiva123786/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva123786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva123786/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shiva123786/DSA/tree/master/0268-missing-number) |
