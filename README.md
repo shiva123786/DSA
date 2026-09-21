@@ -293,6 +293,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva123786/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shiva123786/DSA/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/shiva123786/DSA/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/shiva123786/DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shiva123786/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -488,6 +489,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0940-distinct-subsequences-ii](https://github.com/shiva123786/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/shiva123786/DSA/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/shiva123786/DSA/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shiva123786/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1268-search-suggestions-system](https://github.com/shiva123786/DSA/tree/master/1268-search-suggestions-system) |
@@ -1057,4 +1059,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shiva123786/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
