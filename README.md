@@ -227,6 +227,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shiva123786/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiva123786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shiva123786/DSA/tree/master/2540-minimum-common-value) |
+| [2542-maximum-subsequence-score](https://github.com/shiva123786/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiva123786/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shiva123786/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -365,6 +366,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/shiva123786/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2784-check-if-array-is-good](https://github.com/shiva123786/DSA/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shiva123786/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shiva123786/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -604,6 +606,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shiva123786/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shiva123786/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shiva123786/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2542-maximum-subsequence-score](https://github.com/shiva123786/DSA/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva123786/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shiva123786/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shiva123786/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -870,6 +873,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva123786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shiva123786/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shiva123786/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/shiva123786/DSA/tree/master/2542-maximum-subsequence-score) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shiva123786/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shiva123786/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
