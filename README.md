@@ -289,6 +289,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shiva123786/DSA/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/shiva123786/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/shiva123786/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/shiva123786/DSA/tree/master/0879-profitable-schemes) |
