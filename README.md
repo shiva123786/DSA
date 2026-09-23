@@ -121,6 +121,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shiva123786/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shiva123786/DSA/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/shiva123786/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/shiva123786/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shiva123786/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shiva123786/DSA/tree/master/0078-subsets) |
@@ -272,6 +273,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiva123786/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/shiva123786/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shiva123786/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/shiva123786/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shiva123786/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shiva123786/DSA/tree/master/0118-pascals-triangle) |
@@ -966,6 +968,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0037-sudoku-solver](https://github.com/shiva123786/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shiva123786/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/shiva123786/DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/shiva123786/DSA/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/shiva123786/DSA/tree/master/0566-reshape-the-matrix) |
