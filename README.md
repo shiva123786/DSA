@@ -171,6 +171,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0605-can-place-flowers](https://github.com/shiva123786/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shiva123786/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva123786/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shiva123786/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shiva123786/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shiva123786/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shiva123786/DSA/tree/master/0724-find-pivot-index) |
@@ -291,6 +292,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0435-non-overlapping-intervals](https://github.com/shiva123786/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shiva123786/DSA/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/shiva123786/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shiva123786/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shiva123786/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiva123786/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -998,6 +1000,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shiva123786/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shiva123786/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shiva123786/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1076,6 +1079,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shiva123786/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shiva123786/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shiva123786/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## DP on Trees
 |  |
@@ -1096,5 +1100,6 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shiva123786/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shiva123786/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
