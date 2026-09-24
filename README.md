@@ -216,6 +216,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1848-minimum-distance-to-the-target-element](https://github.com/shiva123786/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/shiva123786/DSA/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shiva123786/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shiva123786/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva123786/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shiva123786/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shiva123786/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -578,6 +579,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shiva123786/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shiva123786/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1847-closest-room](https://github.com/shiva123786/DSA/tree/master/1847-closest-room) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shiva123786/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2080-range-frequency-queries](https://github.com/shiva123786/DSA/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva123786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shiva123786/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -1074,6 +1076,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shiva123786/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shiva123786/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1090,4 +1093,8 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shiva123786/DSA/tree/master/1143-longest-common-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shiva123786/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
