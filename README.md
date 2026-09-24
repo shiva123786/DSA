@@ -283,6 +283,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0119-pascals-triangle-ii](https://github.com/shiva123786/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/shiva123786/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva123786/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shiva123786/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shiva123786/DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/shiva123786/DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/shiva123786/DSA/tree/master/0322-coin-change) |
@@ -716,6 +717,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shiva123786/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shiva123786/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
@@ -735,6 +737,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | ------- |
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shiva123786/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shiva123786/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
@@ -757,6 +760,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiva123786/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shiva123786/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shiva123786/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
@@ -1084,6 +1088,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shiva123786/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Lifting
 |  |
