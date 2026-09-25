@@ -27,6 +27,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0740-delete-and-earn](https://github.com/shiva123786/DSA/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/shiva123786/DSA/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/shiva123786/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva123786/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva123786/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -336,6 +337,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0901-online-stock-span](https://github.com/shiva123786/DSA/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shiva123786/DSA/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shiva123786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva123786/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -364,6 +366,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0792-number-of-matching-subsequences](https://github.com/shiva123786/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/shiva123786/DSA/tree/master/0888-fair-candy-swap) |
 | [0975-odd-even-jump](https://github.com/shiva123786/DSA/tree/master/0975-odd-even-jump) |
+| [1096-brace-expansion-ii](https://github.com/shiva123786/DSA/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/shiva123786/DSA/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva123786/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shiva123786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -507,6 +510,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0940-distinct-subsequences-ii](https://github.com/shiva123786/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shiva123786/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva123786/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shiva123786/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/shiva123786/DSA/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/shiva123786/DSA/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shiva123786/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -712,6 +716,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0079-word-search](https://github.com/shiva123786/DSA/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/shiva123786/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/shiva123786/DSA/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/shiva123786/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shiva123786/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -861,6 +866,7 @@ LeetCode workflow by adding useful productivity features, tracking coding progre
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva123786/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/shiva123786/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/shiva123786/DSA/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/shiva123786/DSA/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shiva123786/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shiva123786/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shiva123786/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
